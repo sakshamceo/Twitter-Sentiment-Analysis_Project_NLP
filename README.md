@@ -18,6 +18,8 @@ This will build a dictionary where we can lookup how many times a word appears i
 import nltk                                 
 from nltk.corpus import twitter_samples      
 import matplotlib.pyplot as plt              
-import numpy as np
+import numpy as np                            
+from nltk.stem import PorterStemmer               
+from nltk.corpus import stopwords
 ```
-
+We will select a set of words that we would like to visualize. 
