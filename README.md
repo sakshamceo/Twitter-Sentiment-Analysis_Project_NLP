@@ -11,5 +11,13 @@ products. <br>
 3. <strong> Public Actions: </strong> Sentiment analysis also is used to monitor and analyse social phenomena, for the spotting of potentially dangerous situations and determining the general mood of the blogosphere. 
 4. Sentiment analysis uses Natural Language Processing (NLP) to make sense of human language, and machine learning to automatically deliver accurate results.
 
-### Feature Extraction with Frequencies
+### Building and Visualizing word frequencies
+#### Setup
 This will build a dictionary where we can lookup how many times a word appears in the lists of positive or negative tweets.
+```
+import nltk                                 
+from nltk.corpus import twitter_samples      
+import matplotlib.pyplot as plt              
+import numpy as np
+```
+
