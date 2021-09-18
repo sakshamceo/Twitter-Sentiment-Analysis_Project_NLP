@@ -42,7 +42,6 @@ import pandas as pd
 from nltk.corpus import twitter_samples 
 import matplotlib.pyplot as plt   
 import numpy as np                  
-from utils import process_tweet, build_freqs 
 ```
 ![image](https://user-images.githubusercontent.com/59284238/133887891-b1c6a08c-58e7-4d0e-99b8-84716d7199f6.png)
 
