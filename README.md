@@ -30,5 +30,20 @@ keys = ['happi', 'merri', 'nice', 'good', 'bad', 'sad', 'mad', 'best', 'pretti',
 We will select a set of words that we would like to visualize.
 
  ![image](https://user-images.githubusercontent.com/59284238/133882745-ff80cb5f-6f80-4df6-988e-06ef00e7dcc9.png) 
+  
+### Visualizing tweets and the Logistic Regression model
+
+**Objectives**: Visualize and interpret the logistic regression model
+#### Setup
+```
+import nltk                      
+from os import getcwd
+import pandas as pd           
+from nltk.corpus import twitter_samples 
+import matplotlib.pyplot as plt   
+import numpy as np                  
+from utils import process_tweet, build_freqs 
+```
+![image](https://user-images.githubusercontent.com/59284238/133887891-b1c6a08c-58e7-4d0e-99b8-84716d7199f6.png)
 
 
