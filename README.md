@@ -22,4 +22,13 @@ import numpy as np
 from nltk.stem import PorterStemmer               
 from nltk.corpus import stopwords
 ```
-We will select a set of words that we would like to visualize. 
+keys = ['happi', 'merri', 'nice', 'good', 'bad', 'sad', 'mad', 'best', 'pretti',
+        '❤', ':)', ':(', '😒', '😬', '😄', '😍', '♛',
+        'song', 'idea', 'power', 'play', 'magnific']
+        
+        
+We will select a set of words that we would like to visualize.
+
+ ![image](https://user-images.githubusercontent.com/59284238/133882745-ff80cb5f-6f80-4df6-988e-06ef00e7dcc9.png) 
+
+
