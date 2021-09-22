@@ -63,3 +63,9 @@ Positive words have a ratio larger than 1 <br>
 Negative words have a ratio lower than 1 <br>
 Neutral words have a ratio of 1 <br>
 
+## Applications of Naive Bayes
+1) Author identification
+2) Spam filtering 
+3) Information retrieval 
+4) Word disambiguation etc.
+
