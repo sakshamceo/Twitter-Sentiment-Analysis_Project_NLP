@@ -45,4 +45,21 @@ import numpy as np
 ```
 ![image](https://user-images.githubusercontent.com/59284238/133887891-b1c6a08c-58e7-4d0e-99b8-84716d7199f6.png)
 
+## To train the naïve Bayes classifier
+step 0) - Collect tweet samples / corpus <br>
+step 1) Get or annotate a dataset with positive and negative tweets <br>
+Step 2) Preprocess the tweets: process_tweet(tweet)= 
+Lowercase
+Remove punctuation, urls, names
+Remove stop words
+Stemming
+Tokenize sentences <br>
+Step 3) Compute freq(w, class) <br>
+step 4) Get P(w|pos), P(w|neg) <br>
+step 5) Get λ(w) = log (P(w|pos) / P(w|neg)) <br>
+step 6) Compute logprior - This ratio between positive and negative tweets is called the prior ratio.
+These ratios are key for Naive Bayes <br>
+Positive words have a ratio larger than 1 <br>
+Negative words have a ratio lower than 1 <br>
+Neutral words have a ratio of 1 <br>
 
