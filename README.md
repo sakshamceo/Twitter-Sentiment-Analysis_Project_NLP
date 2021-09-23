@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis by using Logic Regressions and Naive Bayes Classification
+# Twitter Sentiment Analysis by using Logistic Regressions and Naive Bayes Classification
 Hi!
 I am Saksham Garg, currently studying in 3rd year and persuing my Bachelor's of technology in Information Technology
 
