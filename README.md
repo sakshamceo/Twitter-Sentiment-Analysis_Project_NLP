@@ -72,3 +72,7 @@ Neutral words have a ratio of 1 <br>
 3) Information retrieval 
 4) Word disambiguation etc.
 
+# Biblography
+I would like to thank Andrew Ng for giving guidance on the course and deeplearning.ai on coursera 
+https://www.coursera.org/account/accomplishments/certificate/X6L7L32PXGPC
+
