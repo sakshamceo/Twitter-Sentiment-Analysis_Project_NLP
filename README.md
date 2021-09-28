@@ -3,7 +3,7 @@ Hi!
 I am Saksham Garg, currently studying in 3rd year and persuing my Bachelor's of technology in Information Technology
 
 ## Aim
-To Perform sentiment analysis of tweets using logistic regression and then naïve Bayes.
+To Perform sentiment analysis of tweets using logistic regression and then understanding naïve Bayes classification on training our model. [Twitter Sentiment Analysis Project](https://github.com/sakshamceo/Twitter-Sentiment-Analysis_Project_NLP/blob/main/main_project_using_Logistic_Regression.ipynb)
 
 ## About
 Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker. 
